@@ -1,10 +1,7 @@
 # Family Planning: A Data Based Analysis
 
 This paper aimed to predict contraceptive use in women
-based on various demographic and socioeconomic charac-
-teristics. Additionally, the efficacy of logistic regression, de-
-cision trees, and random forest models on predicting con-
-traceptive use was evaluated. The problem was initially
+based on various demographic and socioeconomic characteristics. Additionally, the efficacy of logistic regression, decision trees, and random forest models on predicting contraceptive use was evaluated. The problem was initially
 framed as a three class problem. The initial three classes of
 contraceptive use were No Use, Short Term Use, and Long
 Term Use. The problem was later reduced to a two class
