@@ -5,8 +5,7 @@ based on various demographic and socioeconomic characteristics. Additionally, th
 framed as a three class problem. The initial three classes of
 contraceptive use were No Use, Short Term Use, and Long
 Term Use. The problem was later reduced to a two class
-case by combining No Use and Short Term Use into a sin-
-gle class. Various techniques such as feature engineering,
+case by combining No Use and Short Term Use into a single class. Various techniques such as feature engineering,
 hyperparameter tuning, oversampling, undersampling, and
 SMOTE sampling were performed in an attempt to optimize
 the models. The most successful model was a fine tuned
